@@ -1,0 +1,302 @@
+[
+  {
+    "id": "user_1",
+    "name": "tundra_1",
+    "cartCount": 8,
+    "segment": "vip"
+  },
+  {
+    "id": "user_2",
+    "name": "zephyr_2",
+    "cartCount": 1,
+    "segment": "vip"
+  },
+  {
+    "id": "user_3",
+    "name": "birch_3",
+    "cartCount": 2,
+    "segment": "new"
+  },
+  {
+    "id": "user_4",
+    "name": "tundra_4",
+    "cartCount": 5,
+    "segment": "vip"
+  },
+  {
+    "id": "user_5",
+    "name": "ember_5",
+    "cartCount": 7,
+    "segment": "vip"
+  },
+  {
+    "id": "user_6",
+    "name": "lattice_6",
+    "cartCount": 5,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_7",
+    "name": "vertex_7",
+    "cartCount": 8,
+    "segment": "new"
+  },
+  {
+    "id": "user_8",
+    "name": "ember_8",
+    "cartCount": 4,
+    "segment": "new"
+  },
+  {
+    "id": "user_9",
+    "name": "lattice_9",
+    "cartCount": 7,
+    "segment": "new"
+  },
+  {
+    "id": "user_10",
+    "name": "cedar_10",
+    "cartCount": 3,
+    "segment": "vip"
+  },
+  {
+    "id": "user_11",
+    "name": "tundra_11",
+    "cartCount": 0,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_12",
+    "name": "delta_12",
+    "cartCount": 2,
+    "segment": "new"
+  },
+  {
+    "id": "user_13",
+    "name": "cobalt_13",
+    "cartCount": 6,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_14",
+    "name": "juniper_14",
+    "cartCount": 3,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_15",
+    "name": "lattice_15",
+    "cartCount": 8,
+    "segment": "vip"
+  },
+  {
+    "id": "user_16",
+    "name": "lattice_16",
+    "cartCount": 3,
+    "segment": "new"
+  },
+  {
+    "id": "user_17",
+    "name": "harbor_17",
+    "cartCount": 5,
+    "segment": "returning"
+  },
+  {
+    "id": "user_18",
+    "name": "tundra_18",
+    "cartCount": 5,
+    "segment": "returning"
+  },
+  {
+    "id": "user_19",
+    "name": "birch_19",
+    "cartCount": 0,
+    "segment": "returning"
+  },
+  {
+    "id": "user_20",
+    "name": "tundra_20",
+    "cartCount": 5,
+    "segment": "vip"
+  },
+  {
+    "id": "user_21",
+    "name": "ember_21",
+    "cartCount": 3,
+    "segment": "vip"
+  },
+  {
+    "id": "user_22",
+    "name": "zephyr_22",
+    "cartCount": 4,
+    "segment": "vip"
+  },
+  {
+    "id": "user_23",
+    "name": "sable_23",
+    "cartCount": 5,
+    "segment": "new"
+  },
+  {
+    "id": "user_24",
+    "name": "ember_24",
+    "cartCount": 1,
+    "segment": "returning"
+  },
+  {
+    "id": "user_25",
+    "name": "fjord_25",
+    "cartCount": 7,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_26",
+    "name": "ember_26",
+    "cartCount": 6,
+    "segment": "new"
+  },
+  {
+    "id": "user_27",
+    "name": "meridian_27",
+    "cartCount": 1,
+    "segment": "returning"
+  },
+  {
+    "id": "user_28",
+    "name": "quartz_28",
+    "cartCount": 4,
+    "segment": "vip"
+  },
+  {
+    "id": "user_29",
+    "name": "amber_29",
+    "cartCount": 4,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_30",
+    "name": "cedar_30",
+    "cartCount": 3,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_31",
+    "name": "vertex_31",
+    "cartCount": 6,
+    "segment": "vip"
+  },
+  {
+    "id": "user_32",
+    "name": "vertex_32",
+    "cartCount": 6,
+    "segment": "vip"
+  },
+  {
+    "id": "user_33",
+    "name": "zephyr_33",
+    "cartCount": 6,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_34",
+    "name": "cobalt_34",
+    "cartCount": 4,
+    "segment": "new"
+  },
+  {
+    "id": "user_35",
+    "name": "amber_35",
+    "cartCount": 8,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_36",
+    "name": "quartz_36",
+    "cartCount": 4,
+    "segment": "vip"
+  },
+  {
+    "id": "user_37",
+    "name": "onyx_37",
+    "cartCount": 2,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_38",
+    "name": "velvet_38",
+    "cartCount": 5,
+    "segment": "new"
+  },
+  {
+    "id": "user_39",
+    "name": "lattice_39",
+    "cartCount": 2,
+    "segment": "returning"
+  },
+  {
+    "id": "user_40",
+    "name": "harbor_40",
+    "cartCount": 8,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_41",
+    "name": "meridian_41",
+    "cartCount": 5,
+    "segment": "new"
+  },
+  {
+    "id": "user_42",
+    "name": "tundra_42",
+    "cartCount": 6,
+    "segment": "vip"
+  },
+  {
+    "id": "user_43",
+    "name": "delta_43",
+    "cartCount": 8,
+    "segment": "new"
+  },
+  {
+    "id": "user_44",
+    "name": "vertex_44",
+    "cartCount": 4,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_45",
+    "name": "sable_45",
+    "cartCount": 1,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_46",
+    "name": "quartz_46",
+    "cartCount": 1,
+    "segment": "vip"
+  },
+  {
+    "id": "user_47",
+    "name": "juniper_47",
+    "cartCount": 4,
+    "segment": "new"
+  },
+  {
+    "id": "user_48",
+    "name": "delta_48",
+    "cartCount": 1,
+    "segment": "loyal"
+  },
+  {
+    "id": "user_49",
+    "name": "juniper_49",
+    "cartCount": 8,
+    "segment": "new"
+  },
+  {
+    "id": "user_50",
+    "name": "lattice_50",
+    "cartCount": 7,
+    "segment": "returning"
+  }
+]

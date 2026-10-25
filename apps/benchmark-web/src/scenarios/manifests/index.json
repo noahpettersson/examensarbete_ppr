@@ -1,0 +1,137 @@
+[
+  {
+    "id": "p0_atf",
+    "proportionPct": 0,
+    "placement": "atf",
+    "dynamicWeight": 0,
+    "dynamicBlockCount": 0,
+    "totalDynamicLatencyMs": 0,
+    "inPrimary": true
+  },
+  {
+    "id": "p0_btf",
+    "proportionPct": 0,
+    "placement": "btf",
+    "dynamicWeight": 0,
+    "dynamicBlockCount": 0,
+    "totalDynamicLatencyMs": 0,
+    "inPrimary": true
+  },
+  {
+    "id": "p0_mixed",
+    "proportionPct": 0,
+    "placement": "mixed",
+    "dynamicWeight": 0,
+    "dynamicBlockCount": 0,
+    "totalDynamicLatencyMs": 0,
+    "inPrimary": false
+  },
+  {
+    "id": "p25_atf",
+    "proportionPct": 25,
+    "placement": "atf",
+    "dynamicWeight": 25,
+    "dynamicBlockCount": 6,
+    "totalDynamicLatencyMs": 250,
+    "inPrimary": true
+  },
+  {
+    "id": "p25_btf",
+    "proportionPct": 25,
+    "placement": "btf",
+    "dynamicWeight": 25,
+    "dynamicBlockCount": 4,
+    "totalDynamicLatencyMs": 250,
+    "inPrimary": true
+  },
+  {
+    "id": "p25_mixed",
+    "proportionPct": 25,
+    "placement": "mixed",
+    "dynamicWeight": 23,
+    "dynamicBlockCount": 5,
+    "totalDynamicLatencyMs": 230,
+    "inPrimary": false
+  },
+  {
+    "id": "p50_atf",
+    "proportionPct": 50,
+    "placement": "atf",
+    "dynamicWeight": 50,
+    "dynamicBlockCount": 12,
+    "totalDynamicLatencyMs": 500,
+    "inPrimary": true
+  },
+  {
+    "id": "p50_btf",
+    "proportionPct": 50,
+    "placement": "btf",
+    "dynamicWeight": 50,
+    "dynamicBlockCount": 8,
+    "totalDynamicLatencyMs": 500,
+    "inPrimary": true
+  },
+  {
+    "id": "p50_mixed",
+    "proportionPct": 50,
+    "placement": "mixed",
+    "dynamicWeight": 47,
+    "dynamicBlockCount": 9,
+    "totalDynamicLatencyMs": 470,
+    "inPrimary": false
+  },
+  {
+    "id": "p75_atf",
+    "proportionPct": 75,
+    "placement": "atf",
+    "dynamicWeight": 75,
+    "dynamicBlockCount": 16,
+    "totalDynamicLatencyMs": 750,
+    "inPrimary": true
+  },
+  {
+    "id": "p75_btf",
+    "proportionPct": 75,
+    "placement": "btf",
+    "dynamicWeight": 75,
+    "dynamicBlockCount": 14,
+    "totalDynamicLatencyMs": 750,
+    "inPrimary": true
+  },
+  {
+    "id": "p75_mixed",
+    "proportionPct": 75,
+    "placement": "mixed",
+    "dynamicWeight": 78,
+    "dynamicBlockCount": 16,
+    "totalDynamicLatencyMs": 780,
+    "inPrimary": false
+  },
+  {
+    "id": "p100_atf",
+    "proportionPct": 100,
+    "placement": "atf",
+    "dynamicWeight": 100,
+    "dynamicBlockCount": 20,
+    "totalDynamicLatencyMs": 1000,
+    "inPrimary": false
+  },
+  {
+    "id": "p100_btf",
+    "proportionPct": 100,
+    "placement": "btf",
+    "dynamicWeight": 100,
+    "dynamicBlockCount": 20,
+    "totalDynamicLatencyMs": 1000,
+    "inPrimary": false
+  },
+  {
+    "id": "p100_mixed",
+    "proportionPct": 100,
+    "placement": "mixed",
+    "dynamicWeight": 100,
+    "dynamicBlockCount": 20,
+    "totalDynamicLatencyMs": 1000,
+    "inPrimary": false
+  }
+]

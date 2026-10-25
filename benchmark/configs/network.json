@@ -1,0 +1,16 @@
+{
+  "default": "cable",
+  "profiles": {
+    "none": null,
+    "cable": {
+      "downloadThroughputBytesPerSec": 655360,
+      "uploadThroughputBytesPerSec": 131072,
+      "latencyMs": 28
+    },
+    "fast3g": {
+      "downloadThroughputBytesPerSec": 204800,
+      "uploadThroughputBytesPerSec": 96256,
+      "latencyMs": 150
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "name": "primary",
+  "conditions": [
+    {
+      "strategy": "ssg",
+      "scenarioId": "p0_atf"
+    },
+    {
+      "strategy": "ssg",
+      "scenarioId": "p0_btf"
+    },
+    {
+      "strategy": "ssg",
+      "scenarioId": "p25_atf"
+    },
+    {
+      "strategy": "ssg",
+      "scenarioId": "p25_btf"
+    },
+    {
+      "strategy": "ssg",
+      "scenarioId": "p50_atf"
+    },
+    {
+      "strategy": "ssg",
+      "scenarioId": "p50_btf"
+    },
+    {
+      "strategy": "ssg",
+      "scenarioId": "p75_atf"
+    },
+    {
+      "strategy": "ssg",
+      "scenarioId": "p75_btf"
+    },
+    {
+      "strategy": "ssg",
+      "scenarioId": "p100_atf"
+    },
+    {
+      "strategy": "ssg",
+      "scenarioId": "p100_btf"
+    },
+    {
+      "strategy": "ssr",
+      "scenarioId": "p0_atf"
+    },
+    {
+      "strategy": "ssr",
+      "scenarioId": "p0_btf"
+    },
+    {
+      "strategy": "ssr",
+      "scenarioId": "p25_atf"
+    },
+    {
+      "strategy": "ssr",
+      "scenarioId": "p25_btf"
+    },
+    {
+      "strategy": "ssr",
+      "scenarioId": "p50_atf"
+    },
+    {
+      "strategy": "ssr",
+      "scenarioId": "p50_btf"
+    },
+    {
+      "strategy": "ssr",
+      "scenarioId": "p75_atf"
+    },
+    {
+      "strategy": "ssr",
+      "scenarioId": "p75_btf"
+    },
+    {
+      "strategy": "ssr",
+      "scenarioId": "p100_atf"
+    },
+    {
+      "strategy": "ssr",
+      "scenarioId": "p100_btf"
+    },
+    {
+      "strategy": "ppr",
+      "scenarioId": "p0_atf"
+    },
+    {
+      "strategy": "ppr",
+      "scenarioId": "p0_btf"
+    },
+    {
+      "strategy": "ppr",
+      "scenarioId": "p25_atf"
+    },
+    {
+      "strategy": "ppr",
+      "scenarioId": "p25_btf"
+    },
+    {
+      "strategy": "ppr",
+      "scenarioId": "p50_atf"
+    },
+    {
+      "strategy": "ppr",
+      "scenarioId": "p50_btf"
+    },
+    {
+      "strategy": "ppr",
+      "scenarioId": "p75_atf"
+    },
+    {
+      "strategy": "ppr",
+      "scenarioId": "p75_btf"
+    },
+    {
+      "strategy": "ppr",
+      "scenarioId": "p100_atf"
+    },
+    {
+      "strategy": "ppr",
+      "scenarioId": "p100_btf"
+    }
+  ]
+}

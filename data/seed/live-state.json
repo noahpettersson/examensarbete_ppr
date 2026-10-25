@@ -1,0 +1,22 @@
+[
+  {
+    "key": "price",
+    "numericValue": 1299.9,
+    "textValue": "EUR"
+  },
+  {
+    "key": "discountPct",
+    "numericValue": 12,
+    "textValue": "summer-promo"
+  },
+  {
+    "key": "stockQty",
+    "numericValue": 37,
+    "textValue": "warehouse-A"
+  },
+  {
+    "key": "shippingDays",
+    "numericValue": 3,
+    "textValue": "standard"
+  }
+]

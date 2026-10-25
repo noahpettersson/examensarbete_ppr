@@ -1,0 +1,19 @@
+{
+  "name": "benchmark-harness",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "smoke": "tsx runner/run-matrix.ts --matrix smoke",
+    "pilot": "tsx runner/run-matrix.ts --matrix pilot",
+    "primary": "tsx runner/run-matrix.ts --matrix primary",
+    "extended": "tsx runner/run-matrix.ts --matrix extended"
+  },
+  "dependencies": {
+    "playwright": "^1.57.0",
+    "tsx": "^4.20.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.0"
+  }
+}

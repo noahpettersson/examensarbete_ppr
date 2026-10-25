@@ -1,0 +1,5 @@
+{
+  "viewport": { "width": 1280, "height": 720 },
+  "headless": true,
+  "postLoadIdleMs": 2000
+}

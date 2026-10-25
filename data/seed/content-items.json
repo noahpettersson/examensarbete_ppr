@@ -1,0 +1,1402 @@
+[
+  {
+    "blockId": "header",
+    "idx": 0,
+    "title": "Store Header 1: willow quartz",
+    "body": "Zephyr meridian tundra lattice willow delta sable juniper delta amber onyx meridian tundra zephyr willow alpine.",
+    "value": 47.61
+  },
+  {
+    "blockId": "header",
+    "idx": 1,
+    "title": "Store Header 2: cedar vertex",
+    "body": "Alpine lattice vertex meridian birch tundra alpine meridian cedar sable cedar onyx quartz alpine.",
+    "value": 6.09
+  },
+  {
+    "blockId": "header",
+    "idx": 2,
+    "title": "Store Header 3: velvet velvet",
+    "body": "Willow juniper onyx amber delta tundra juniper lattice lattice vertex zephyr.",
+    "value": 68.4
+  },
+  {
+    "blockId": "header",
+    "idx": 3,
+    "title": "Store Header 4: zephyr ember",
+    "body": "Ember quartz ember cobalt cobalt alpine harbor sable willow delta.",
+    "value": 8.68
+  },
+  {
+    "blockId": "header",
+    "idx": 4,
+    "title": "Store Header 5: amber ember",
+    "body": "Amber meridian tundra cedar cobalt fjord velvet ember quartz velvet onyx velvet.",
+    "value": 32.97
+  },
+  {
+    "blockId": "header",
+    "idx": 5,
+    "title": "Store Header 6: amber lattice",
+    "body": "Cedar zephyr fjord delta quartz tundra lattice cobalt zephyr onyx birch ember vertex.",
+    "value": 48.06
+  },
+  {
+    "blockId": "header",
+    "idx": 6,
+    "title": "Store Header 7: cedar cobalt",
+    "body": "Meridian amber zephyr juniper quartz meridian zephyr onyx juniper willow delta onyx birch harbor cobalt delta harbor.",
+    "value": 1.94
+  },
+  {
+    "blockId": "header",
+    "idx": 7,
+    "title": "Store Header 8: amber willow",
+    "body": "Ember juniper willow sable meridian alpine amber amber lattice lattice onyx alpine juniper fjord velvet fjord meridian.",
+    "value": 17.91
+  },
+  {
+    "blockId": "nav",
+    "idx": 0,
+    "title": "Category Navigation 1: velvet lattice",
+    "body": "Quartz quartz zephyr harbor onyx delta onyx sable willow tundra velvet juniper onyx.",
+    "value": 30.58
+  },
+  {
+    "blockId": "nav",
+    "idx": 1,
+    "title": "Category Navigation 2: onyx zephyr",
+    "body": "Meridian zephyr onyx cobalt onyx alpine velvet juniper sable harbor amber.",
+    "value": 91.35
+  },
+  {
+    "blockId": "nav",
+    "idx": 2,
+    "title": "Category Navigation 3: cedar quartz",
+    "body": "Delta tundra cedar delta sable cobalt willow cedar juniper harbor tundra.",
+    "value": 98.46
+  },
+  {
+    "blockId": "nav",
+    "idx": 3,
+    "title": "Category Navigation 4: sable delta",
+    "body": "Amber vertex vertex meridian tundra zephyr birch fjord cedar willow cedar delta velvet harbor quartz delta.",
+    "value": 68.42
+  },
+  {
+    "blockId": "nav",
+    "idx": 4,
+    "title": "Category Navigation 5: onyx ember",
+    "body": "Onyx cedar meridian harbor alpine vertex willow amber fjord delta sable amber cobalt lattice cobalt.",
+    "value": 5.72
+  },
+  {
+    "blockId": "nav",
+    "idx": 5,
+    "title": "Category Navigation 6: lattice quartz",
+    "body": "Amber birch birch meridian zephyr tundra quartz sable sable quartz onyx onyx cobalt tundra.",
+    "value": 27.47
+  },
+  {
+    "blockId": "nav",
+    "idx": 6,
+    "title": "Category Navigation 7: tundra tundra",
+    "body": "Quartz cobalt alpine cobalt ember vertex delta quartz tundra vertex cedar vertex harbor juniper amber.",
+    "value": 56.84
+  },
+  {
+    "blockId": "nav",
+    "idx": 7,
+    "title": "Category Navigation 8: vertex fjord",
+    "body": "Zephyr birch tundra cedar tundra meridian vertex vertex vertex lattice zephyr zephyr velvet fjord alpine harbor.",
+    "value": 34.45
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 0,
+    "title": "Product Image Gallery 1: lattice cedar",
+    "body": "Juniper ember fjord lattice tundra delta ember zephyr velvet cedar onyx sable birch tundra.",
+    "value": 69.04
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 1,
+    "title": "Product Image Gallery 2: velvet tundra",
+    "body": "Fjord birch onyx willow zephyr delta harbor delta onyx delta quartz onyx tundra cedar willow delta zephyr.",
+    "value": 15.94
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 2,
+    "title": "Product Image Gallery 3: lattice fjord",
+    "body": "Lattice willow birch amber amber meridian cedar ember tundra sable vertex sable delta.",
+    "value": 67.85
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 3,
+    "title": "Product Image Gallery 4: quartz quartz",
+    "body": "Amber tundra alpine meridian vertex cobalt harbor cedar cedar zephyr vertex alpine lattice amber.",
+    "value": 27.7
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 4,
+    "title": "Product Image Gallery 5: delta willow",
+    "body": "Delta onyx vertex willow juniper sable lattice lattice amber tundra sable velvet cobalt birch zephyr ember cobalt.",
+    "value": 6.82
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 5,
+    "title": "Product Image Gallery 6: alpine onyx",
+    "body": "Juniper fjord velvet cedar onyx willow alpine amber birch harbor juniper.",
+    "value": 78.76
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 6,
+    "title": "Product Image Gallery 7: tundra cobalt",
+    "body": "Birch quartz delta birch sable fjord meridian cobalt velvet zephyr.",
+    "value": 21.45
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 7,
+    "title": "Product Image Gallery 8: birch juniper",
+    "body": "Zephyr willow velvet juniper ember tundra amber alpine fjord velvet lattice.",
+    "value": 5.66
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 8,
+    "title": "Product Image Gallery 9: onyx amber",
+    "body": "Lattice delta sable meridian willow tundra meridian delta vertex cobalt fjord juniper sable tundra willow sable.",
+    "value": 67.75
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 9,
+    "title": "Product Image Gallery 10: meridian fjord",
+    "body": "Onyx juniper tundra birch quartz sable lattice sable alpine delta harbor quartz lattice tundra alpine zephyr.",
+    "value": 7.41
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 10,
+    "title": "Product Image Gallery 11: ember birch",
+    "body": "Cedar vertex velvet tundra sable tundra sable sable velvet alpine amber alpine zephyr meridian harbor.",
+    "value": 72.85
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 11,
+    "title": "Product Image Gallery 12: ember lattice",
+    "body": "Ember sable alpine velvet sable quartz sable birch cobalt amber velvet ember cedar sable.",
+    "value": 1.82
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 12,
+    "title": "Product Image Gallery 13: ember vertex",
+    "body": "Sable zephyr velvet willow delta zephyr fjord fjord fjord cedar fjord cedar meridian vertex.",
+    "value": 99.3
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 13,
+    "title": "Product Image Gallery 14: alpine sable",
+    "body": "Zephyr birch onyx cedar sable ember zephyr lattice meridian harbor amber vertex cobalt juniper willow harbor.",
+    "value": 63.91
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 14,
+    "title": "Product Image Gallery 15: fjord quartz",
+    "body": "Amber alpine zephyr delta lattice velvet delta sable harbor cedar willow onyx sable tundra fjord meridian.",
+    "value": 59.86
+  },
+  {
+    "blockId": "hero-gallery",
+    "idx": 15,
+    "title": "Product Image Gallery 16: vertex willow",
+    "body": "Quartz velvet cedar harbor velvet meridian fjord meridian zephyr amber velvet tundra willow delta birch alpine.",
+    "value": 6.98
+  },
+  {
+    "blockId": "product-title",
+    "idx": 0,
+    "title": "Product Title 1: vertex ember",
+    "body": "Alpine tundra vertex amber willow alpine quartz cedar onyx meridian.",
+    "value": 74.52
+  },
+  {
+    "blockId": "product-title",
+    "idx": 1,
+    "title": "Product Title 2: zephyr alpine",
+    "body": "Velvet delta velvet quartz velvet quartz velvet meridian cobalt amber amber lattice ember ember quartz.",
+    "value": 60.04
+  },
+  {
+    "blockId": "product-title",
+    "idx": 2,
+    "title": "Product Title 3: onyx zephyr",
+    "body": "Delta zephyr onyx ember tundra ember juniper meridian onyx fjord tundra fjord alpine zephyr willow fjord lattice.",
+    "value": 96.35
+  },
+  {
+    "blockId": "product-title",
+    "idx": 3,
+    "title": "Product Title 4: juniper ember",
+    "body": "Tundra harbor juniper lattice ember willow onyx tundra harbor quartz meridian velvet.",
+    "value": 90.08
+  },
+  {
+    "blockId": "product-title",
+    "idx": 4,
+    "title": "Product Title 5: zephyr tundra",
+    "body": "Velvet delta quartz willow sable velvet zephyr willow quartz meridian alpine amber harbor onyx alpine cobalt willow.",
+    "value": 28.83
+  },
+  {
+    "blockId": "product-title",
+    "idx": 5,
+    "title": "Product Title 6: alpine sable",
+    "body": "Cobalt amber juniper lattice willow onyx onyx willow sable cedar vertex meridian onyx delta delta.",
+    "value": 95.33
+  },
+  {
+    "blockId": "price",
+    "idx": 0,
+    "title": "Price 1: sable meridian",
+    "body": "Willow birch ember quartz harbor meridian ember velvet meridian alpine delta vertex tundra tundra velvet.",
+    "value": 97.64
+  },
+  {
+    "blockId": "price",
+    "idx": 1,
+    "title": "Price 2: tundra zephyr",
+    "body": "Ember delta vertex juniper ember harbor amber tundra quartz onyx harbor onyx willow delta.",
+    "value": 88.25
+  },
+  {
+    "blockId": "price",
+    "idx": 2,
+    "title": "Price 3: juniper velvet",
+    "body": "Tundra amber velvet quartz fjord juniper quartz alpine meridian alpine cobalt onyx birch.",
+    "value": 53.17
+  },
+  {
+    "blockId": "price",
+    "idx": 3,
+    "title": "Price 4: sable harbor",
+    "body": "Amber quartz onyx amber lattice velvet lattice cobalt cedar harbor cobalt ember alpine birch velvet vertex willow.",
+    "value": 87.73
+  },
+  {
+    "blockId": "price",
+    "idx": 4,
+    "title": "Price 5: meridian cedar",
+    "body": "Fjord sable quartz alpine harbor vertex harbor sable quartz alpine fjord.",
+    "value": 76.8
+  },
+  {
+    "blockId": "price",
+    "idx": 5,
+    "title": "Price 6: juniper cobalt",
+    "body": "Zephyr birch fjord delta delta juniper amber tundra cedar juniper alpine.",
+    "value": 84.31
+  },
+  {
+    "blockId": "stock",
+    "idx": 0,
+    "title": "Stock Availability 1: ember ember",
+    "body": "Cobalt alpine fjord zephyr willow vertex willow zephyr birch alpine cedar.",
+    "value": 23.41
+  },
+  {
+    "blockId": "stock",
+    "idx": 1,
+    "title": "Stock Availability 2: tundra harbor",
+    "body": "Lattice ember fjord velvet juniper alpine cedar alpine ember onyx.",
+    "value": 95.29
+  },
+  {
+    "blockId": "stock",
+    "idx": 2,
+    "title": "Stock Availability 3: ember birch",
+    "body": "Harbor lattice vertex willow tundra willow zephyr velvet vertex delta zephyr.",
+    "value": 62.77
+  },
+  {
+    "blockId": "stock",
+    "idx": 3,
+    "title": "Stock Availability 4: quartz cedar",
+    "body": "Quartz cobalt ember meridian juniper willow willow velvet quartz quartz harbor.",
+    "value": 43.47
+  },
+  {
+    "blockId": "stock",
+    "idx": 4,
+    "title": "Stock Availability 5: amber vertex",
+    "body": "Willow willow delta delta sable birch cobalt sable zephyr quartz meridian fjord ember quartz.",
+    "value": 92.47
+  },
+  {
+    "blockId": "stock",
+    "idx": 5,
+    "title": "Stock Availability 6: ember vertex",
+    "body": "Delta lattice sable birch onyx amber harbor fjord vertex ember amber sable lattice.",
+    "value": 27.51
+  },
+  {
+    "blockId": "buy-box",
+    "idx": 0,
+    "title": "Buy Box 1: harbor lattice",
+    "body": "Alpine amber meridian lattice alpine birch vertex amber tundra sable onyx.",
+    "value": 64.63
+  },
+  {
+    "blockId": "buy-box",
+    "idx": 1,
+    "title": "Buy Box 2: velvet onyx",
+    "body": "Delta amber zephyr sable harbor velvet fjord lattice quartz quartz lattice zephyr harbor meridian willow birch.",
+    "value": 56.49
+  },
+  {
+    "blockId": "buy-box",
+    "idx": 2,
+    "title": "Buy Box 3: fjord delta",
+    "body": "Velvet tundra harbor delta lattice vertex willow alpine cobalt amber meridian juniper meridian harbor fjord sable amber.",
+    "value": 85.96
+  },
+  {
+    "blockId": "buy-box",
+    "idx": 3,
+    "title": "Buy Box 4: cedar lattice",
+    "body": "Harbor lattice vertex amber birch delta sable lattice willow willow lattice delta birch willow willow tundra.",
+    "value": 91.37
+  },
+  {
+    "blockId": "buy-box",
+    "idx": 4,
+    "title": "Buy Box 5: quartz fjord",
+    "body": "Vertex delta amber cedar juniper cobalt cedar harbor velvet delta quartz harbor tundra alpine lattice fjord.",
+    "value": 96.09
+  },
+  {
+    "blockId": "buy-box",
+    "idx": 5,
+    "title": "Buy Box 6: velvet tundra",
+    "body": "Vertex delta lattice lattice fjord zephyr juniper onyx juniper juniper delta.",
+    "value": 98.84
+  },
+  {
+    "blockId": "buy-box",
+    "idx": 6,
+    "title": "Buy Box 7: willow harbor",
+    "body": "Meridian velvet sable velvet harbor sable sable sable zephyr juniper zephyr cedar willow cobalt onyx meridian.",
+    "value": 87.48
+  },
+  {
+    "blockId": "buy-box",
+    "idx": 7,
+    "title": "Buy Box 8: vertex tundra",
+    "body": "Lattice alpine sable vertex birch sable juniper willow velvet tundra cedar fjord meridian alpine cedar birch.",
+    "value": 52.81
+  },
+  {
+    "blockId": "buy-box",
+    "idx": 8,
+    "title": "Buy Box 9: vertex lattice",
+    "body": "Cedar sable cobalt lattice willow amber amber fjord sable delta ember.",
+    "value": 70.65
+  },
+  {
+    "blockId": "buy-box",
+    "idx": 9,
+    "title": "Buy Box 10: delta harbor",
+    "body": "Vertex tundra willow lattice fjord fjord amber fjord juniper birch vertex.",
+    "value": 30.7
+  },
+  {
+    "blockId": "user-greeting",
+    "idx": 0,
+    "title": "User Greeting 1: tundra willow",
+    "body": "Birch amber cedar fjord cedar delta willow ember harbor velvet alpine harbor juniper amber juniper zephyr juniper.",
+    "value": 78.12
+  },
+  {
+    "blockId": "user-greeting",
+    "idx": 1,
+    "title": "User Greeting 2: lattice alpine",
+    "body": "Meridian ember fjord onyx onyx delta amber juniper onyx meridian velvet.",
+    "value": 89.95
+  },
+  {
+    "blockId": "user-greeting",
+    "idx": 2,
+    "title": "User Greeting 3: amber cedar",
+    "body": "Zephyr amber juniper lattice quartz juniper fjord meridian velvet cedar onyx ember ember amber meridian meridian.",
+    "value": 51.3
+  },
+  {
+    "blockId": "user-greeting",
+    "idx": 3,
+    "title": "User Greeting 4: delta quartz",
+    "body": "Vertex alpine willow harbor cobalt willow delta juniper vertex alpine meridian juniper ember delta harbor sable.",
+    "value": 33.96
+  },
+  {
+    "blockId": "cart-badge",
+    "idx": 0,
+    "title": "Shopping Cart 1: tundra juniper",
+    "body": "Zephyr sable sable fjord tundra vertex delta tundra zephyr cobalt cobalt tundra.",
+    "value": 97.66
+  },
+  {
+    "blockId": "cart-badge",
+    "idx": 1,
+    "title": "Shopping Cart 2: onyx juniper",
+    "body": "Sable quartz onyx tundra quartz vertex sable amber cobalt alpine lattice.",
+    "value": 23.33
+  },
+  {
+    "blockId": "cart-badge",
+    "idx": 2,
+    "title": "Shopping Cart 3: quartz ember",
+    "body": "Willow quartz willow juniper ember meridian zephyr cedar tundra willow onyx zephyr velvet lattice sable juniper harbor.",
+    "value": 46.59
+  },
+  {
+    "blockId": "cart-badge",
+    "idx": 3,
+    "title": "Shopping Cart 4: cobalt sable",
+    "body": "Juniper harbor onyx juniper birch alpine quartz cedar zephyr sable vertex velvet.",
+    "value": 13.52
+  },
+  {
+    "blockId": "cart-badge",
+    "idx": 4,
+    "title": "Shopping Cart 5: meridian cedar",
+    "body": "Velvet quartz birch velvet sable cedar willow harbor juniper zephyr ember.",
+    "value": 93.45
+  },
+  {
+    "blockId": "cart-badge",
+    "idx": 5,
+    "title": "Shopping Cart 6: birch cedar",
+    "body": "Meridian meridian cobalt ember amber sable tundra lattice willow delta onyx quartz fjord delta amber.",
+    "value": 2.23
+  },
+  {
+    "blockId": "shipping-estimate",
+    "idx": 0,
+    "title": "Shipping Estimate 1: tundra ember",
+    "body": "Cobalt vertex quartz lattice cedar delta willow vertex ember onyx willow.",
+    "value": 33.83
+  },
+  {
+    "blockId": "shipping-estimate",
+    "idx": 1,
+    "title": "Shipping Estimate 2: sable birch",
+    "body": "Cedar onyx meridian cobalt sable juniper birch velvet willow ember willow amber lattice meridian vertex.",
+    "value": 3.04
+  },
+  {
+    "blockId": "shipping-estimate",
+    "idx": 2,
+    "title": "Shipping Estimate 3: birch vertex",
+    "body": "Vertex lattice sable sable vertex amber fjord sable sable harbor.",
+    "value": 9.45
+  },
+  {
+    "blockId": "shipping-estimate",
+    "idx": 3,
+    "title": "Shipping Estimate 4: fjord velvet",
+    "body": "Meridian vertex alpine meridian amber amber harbor juniper quartz birch.",
+    "value": 12.55
+  },
+  {
+    "blockId": "shipping-estimate",
+    "idx": 4,
+    "title": "Shipping Estimate 5: meridian quartz",
+    "body": "Quartz vertex cobalt fjord velvet fjord sable quartz quartz cobalt birch zephyr meridian ember ember willow quartz.",
+    "value": 28.48
+  },
+  {
+    "blockId": "shipping-estimate",
+    "idx": 5,
+    "title": "Shipping Estimate 6: zephyr juniper",
+    "body": "Zephyr ember harbor ember meridian ember harbor harbor harbor harbor tundra.",
+    "value": 97.42
+  },
+  {
+    "blockId": "shipping-estimate",
+    "idx": 6,
+    "title": "Shipping Estimate 7: birch sable",
+    "body": "Meridian vertex cedar tundra alpine birch amber amber sable zephyr.",
+    "value": 73.36
+  },
+  {
+    "blockId": "shipping-estimate",
+    "idx": 7,
+    "title": "Shipping Estimate 8: delta meridian",
+    "body": "Quartz tundra fjord birch velvet meridian sable meridian delta fjord velvet fjord lattice meridian amber velvet.",
+    "value": 10.82
+  },
+  {
+    "blockId": "promo-banner",
+    "idx": 0,
+    "title": "Promotions 1: meridian tundra",
+    "body": "Fjord fjord tundra onyx sable sable lattice lattice lattice cobalt fjord.",
+    "value": 14.41
+  },
+  {
+    "blockId": "promo-banner",
+    "idx": 1,
+    "title": "Promotions 2: sable vertex",
+    "body": "Ember quartz tundra zephyr ember quartz amber tundra quartz alpine lattice.",
+    "value": 12.66
+  },
+  {
+    "blockId": "promo-banner",
+    "idx": 2,
+    "title": "Promotions 3: ember birch",
+    "body": "Tundra lattice onyx velvet amber meridian ember ember alpine onyx delta tundra juniper alpine cedar fjord.",
+    "value": 76.31
+  },
+  {
+    "blockId": "promo-banner",
+    "idx": 3,
+    "title": "Promotions 4: meridian onyx",
+    "body": "Juniper lattice fjord vertex harbor cobalt meridian meridian juniper fjord lattice onyx.",
+    "value": 72.98
+  },
+  {
+    "blockId": "promo-banner",
+    "idx": 4,
+    "title": "Promotions 5: juniper delta",
+    "body": "Zephyr cobalt delta tundra meridian birch zephyr vertex vertex vertex fjord zephyr harbor amber.",
+    "value": 17.79
+  },
+  {
+    "blockId": "promo-banner",
+    "idx": 5,
+    "title": "Promotions 6: onyx cobalt",
+    "body": "Onyx onyx zephyr sable onyx cobalt willow willow amber amber alpine onyx sable zephyr vertex delta.",
+    "value": 60.81
+  },
+  {
+    "blockId": "promo-banner",
+    "idx": 6,
+    "title": "Promotions 7: birch velvet",
+    "body": "Ember meridian alpine amber cobalt fjord delta tundra alpine delta delta juniper vertex ember.",
+    "value": 41.99
+  },
+  {
+    "blockId": "promo-banner",
+    "idx": 7,
+    "title": "Promotions 8: meridian zephyr",
+    "body": "Onyx meridian ember delta alpine delta onyx lattice birch ember tundra ember meridian.",
+    "value": 83.79
+  },
+  {
+    "blockId": "product-description",
+    "idx": 0,
+    "title": "Product Description 1: fjord amber",
+    "body": "Cedar delta tundra velvet lattice vertex cedar fjord alpine amber willow.",
+    "value": 51.98
+  },
+  {
+    "blockId": "product-description",
+    "idx": 1,
+    "title": "Product Description 2: zephyr cobalt",
+    "body": "Harbor willow meridian cobalt vertex sable cobalt onyx cedar cobalt willow alpine cobalt ember alpine.",
+    "value": 78.75
+  },
+  {
+    "blockId": "product-description",
+    "idx": 2,
+    "title": "Product Description 3: juniper lattice",
+    "body": "Velvet tundra fjord zephyr zephyr harbor willow sable vertex willow ember meridian.",
+    "value": 5.85
+  },
+  {
+    "blockId": "product-description",
+    "idx": 3,
+    "title": "Product Description 4: ember cedar",
+    "body": "Vertex velvet zephyr sable birch vertex cedar quartz cobalt ember fjord.",
+    "value": 68.51
+  },
+  {
+    "blockId": "product-description",
+    "idx": 4,
+    "title": "Product Description 5: amber willow",
+    "body": "Alpine lattice cedar juniper zephyr amber zephyr meridian delta tundra cedar birch juniper.",
+    "value": 87.23
+  },
+  {
+    "blockId": "product-description",
+    "idx": 5,
+    "title": "Product Description 6: velvet alpine",
+    "body": "Willow delta lattice velvet onyx willow vertex lattice tundra vertex cobalt.",
+    "value": 19.81
+  },
+  {
+    "blockId": "product-description",
+    "idx": 6,
+    "title": "Product Description 7: cedar meridian",
+    "body": "Amber quartz onyx vertex willow zephyr amber cobalt willow cedar cobalt.",
+    "value": 79.42
+  },
+  {
+    "blockId": "product-description",
+    "idx": 7,
+    "title": "Product Description 8: alpine quartz",
+    "body": "Willow onyx vertex sable quartz amber sable fjord willow birch tundra ember.",
+    "value": 63.14
+  },
+  {
+    "blockId": "product-description",
+    "idx": 8,
+    "title": "Product Description 9: meridian delta",
+    "body": "Alpine harbor ember quartz tundra sable lattice tundra onyx delta lattice lattice cedar tundra meridian amber onyx.",
+    "value": 67.75
+  },
+  {
+    "blockId": "product-description",
+    "idx": 9,
+    "title": "Product Description 10: willow ember",
+    "body": "Juniper harbor onyx amber birch sable delta lattice alpine velvet ember tundra zephyr.",
+    "value": 82.25
+  },
+  {
+    "blockId": "product-description",
+    "idx": 10,
+    "title": "Product Description 11: zephyr zephyr",
+    "body": "Harbor lattice delta cobalt harbor amber alpine birch zephyr quartz sable cobalt harbor.",
+    "value": 33.14
+  },
+  {
+    "blockId": "product-description",
+    "idx": 11,
+    "title": "Product Description 12: ember fjord",
+    "body": "Cedar alpine delta amber willow alpine fjord meridian vertex meridian juniper fjord.",
+    "value": 85.57
+  },
+  {
+    "blockId": "product-description",
+    "idx": 12,
+    "title": "Product Description 13: lattice alpine",
+    "body": "Fjord amber delta ember harbor delta fjord zephyr meridian birch.",
+    "value": 7.77
+  },
+  {
+    "blockId": "product-description",
+    "idx": 13,
+    "title": "Product Description 14: velvet velvet",
+    "body": "Tundra lattice quartz meridian amber cedar zephyr zephyr tundra willow velvet velvet.",
+    "value": 10.45
+  },
+  {
+    "blockId": "spec-table",
+    "idx": 0,
+    "title": "Specifications 1: juniper cobalt",
+    "body": "Meridian juniper cobalt delta harbor zephyr zephyr sable cedar delta cobalt ember.",
+    "value": 94.66
+  },
+  {
+    "blockId": "spec-table",
+    "idx": 1,
+    "title": "Specifications 2: cedar meridian",
+    "body": "Onyx sable zephyr tundra lattice zephyr harbor quartz cobalt vertex meridian quartz cobalt.",
+    "value": 97.44
+  },
+  {
+    "blockId": "spec-table",
+    "idx": 2,
+    "title": "Specifications 3: onyx juniper",
+    "body": "Alpine zephyr cobalt cobalt lattice amber zephyr fjord harbor harbor sable cobalt cedar juniper.",
+    "value": 11.26
+  },
+  {
+    "blockId": "spec-table",
+    "idx": 3,
+    "title": "Specifications 4: cobalt lattice",
+    "body": "Velvet amber juniper juniper onyx lattice ember harbor meridian meridian juniper birch.",
+    "value": 30.82
+  },
+  {
+    "blockId": "spec-table",
+    "idx": 4,
+    "title": "Specifications 5: fjord meridian",
+    "body": "Cedar zephyr willow quartz ember alpine willow willow zephyr fjord ember ember juniper.",
+    "value": 97.94
+  },
+  {
+    "blockId": "spec-table",
+    "idx": 5,
+    "title": "Specifications 6: onyx lattice",
+    "body": "Vertex fjord sable cobalt zephyr quartz juniper cedar willow meridian cedar.",
+    "value": 87.95
+  },
+  {
+    "blockId": "spec-table",
+    "idx": 6,
+    "title": "Specifications 7: sable velvet",
+    "body": "Meridian meridian sable vertex velvet velvet alpine zephyr onyx cobalt ember cobalt juniper.",
+    "value": 13.76
+  },
+  {
+    "blockId": "spec-table",
+    "idx": 7,
+    "title": "Specifications 8: lattice birch",
+    "body": "Willow ember fjord velvet juniper willow juniper velvet alpine juniper.",
+    "value": 40.84
+  },
+  {
+    "blockId": "spec-table",
+    "idx": 8,
+    "title": "Specifications 9: amber fjord",
+    "body": "Willow cobalt vertex willow cobalt velvet alpine amber sable sable.",
+    "value": 96.23
+  },
+  {
+    "blockId": "spec-table",
+    "idx": 9,
+    "title": "Specifications 10: fjord birch",
+    "body": "Meridian delta cedar harbor zephyr velvet onyx lattice sable fjord fjord sable tundra amber.",
+    "value": 1.53
+  },
+  {
+    "blockId": "spec-table",
+    "idx": 10,
+    "title": "Specifications 11: vertex alpine",
+    "body": "Delta tundra delta harbor juniper birch alpine quartz lattice cedar sable.",
+    "value": 3.14
+  },
+  {
+    "blockId": "spec-table",
+    "idx": 11,
+    "title": "Specifications 12: willow sable",
+    "body": "Cobalt cedar tundra zephyr fjord harbor cedar alpine amber vertex ember lattice.",
+    "value": 16.19
+  },
+  {
+    "blockId": "reviews-summary",
+    "idx": 0,
+    "title": "Review Summary 1: birch velvet",
+    "body": "Delta ember velvet birch tundra willow willow meridian sable onyx vertex zephyr.",
+    "value": 96.74
+  },
+  {
+    "blockId": "reviews-summary",
+    "idx": 1,
+    "title": "Review Summary 2: alpine juniper",
+    "body": "Cobalt ember cedar harbor juniper fjord harbor fjord alpine onyx meridian willow alpine delta velvet tundra.",
+    "value": 34.45
+  },
+  {
+    "blockId": "reviews-summary",
+    "idx": 2,
+    "title": "Review Summary 3: willow tundra",
+    "body": "Zephyr willow sable harbor vertex sable amber tundra fjord cedar tundra ember amber cedar vertex lattice zephyr.",
+    "value": 54.1
+  },
+  {
+    "blockId": "reviews-summary",
+    "idx": 3,
+    "title": "Review Summary 4: zephyr sable",
+    "body": "Sable meridian quartz meridian fjord alpine willow zephyr zephyr ember sable lattice juniper vertex tundra juniper.",
+    "value": 4.98
+  },
+  {
+    "blockId": "reviews-summary",
+    "idx": 4,
+    "title": "Review Summary 5: delta willow",
+    "body": "Sable meridian cobalt willow cobalt meridian alpine cobalt juniper meridian amber alpine.",
+    "value": 86.16
+  },
+  {
+    "blockId": "reviews-summary",
+    "idx": 5,
+    "title": "Review Summary 6: harbor delta",
+    "body": "Alpine velvet quartz ember juniper delta delta juniper alpine sable.",
+    "value": 14.52
+  },
+  {
+    "blockId": "reviews-summary",
+    "idx": 6,
+    "title": "Review Summary 7: fjord vertex",
+    "body": "Velvet tundra cedar fjord onyx tundra alpine ember alpine zephyr birch willow.",
+    "value": 94.38
+  },
+  {
+    "blockId": "reviews-summary",
+    "idx": 7,
+    "title": "Review Summary 8: velvet meridian",
+    "body": "Velvet vertex meridian harbor meridian harbor sable willow juniper onyx cobalt onyx delta sable amber birch.",
+    "value": 89.14
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 0,
+    "title": "Customer Reviews 1: sable willow",
+    "body": "Velvet juniper meridian cedar harbor willow willow fjord zephyr alpine ember.",
+    "value": 86.84
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 1,
+    "title": "Customer Reviews 2: velvet cedar",
+    "body": "Velvet tundra meridian ember harbor fjord delta birch fjord vertex sable meridian cedar.",
+    "value": 79.46
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 2,
+    "title": "Customer Reviews 3: lattice cedar",
+    "body": "Willow harbor amber ember delta willow zephyr zephyr juniper willow zephyr ember.",
+    "value": 10.73
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 3,
+    "title": "Customer Reviews 4: onyx zephyr",
+    "body": "Harbor zephyr birch vertex harbor fjord onyx cobalt cobalt zephyr ember tundra harbor velvet alpine.",
+    "value": 67.86
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 4,
+    "title": "Customer Reviews 5: zephyr delta",
+    "body": "Delta zephyr cobalt velvet cedar quartz cobalt cedar harbor sable lattice amber vertex vertex zephyr velvet harbor.",
+    "value": 2.57
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 5,
+    "title": "Customer Reviews 6: cedar amber",
+    "body": "Zephyr onyx lattice onyx meridian cedar tundra cobalt fjord quartz alpine onyx vertex quartz meridian.",
+    "value": 7.21
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 6,
+    "title": "Customer Reviews 7: quartz birch",
+    "body": "Ember delta velvet vertex alpine lattice cedar amber velvet onyx.",
+    "value": 60.04
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 7,
+    "title": "Customer Reviews 8: amber velvet",
+    "body": "Harbor zephyr onyx fjord zephyr ember willow fjord vertex alpine willow fjord vertex willow cobalt fjord.",
+    "value": 69.53
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 8,
+    "title": "Customer Reviews 9: quartz lattice",
+    "body": "Delta sable ember cobalt quartz lattice birch tundra birch zephyr cobalt birch cedar willow ember.",
+    "value": 12.71
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 9,
+    "title": "Customer Reviews 10: cobalt onyx",
+    "body": "Meridian sable vertex fjord tundra amber lattice alpine delta tundra juniper alpine vertex delta zephyr.",
+    "value": 42.92
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 10,
+    "title": "Customer Reviews 11: quartz onyx",
+    "body": "Velvet meridian tundra cobalt cobalt juniper lattice meridian harbor birch meridian harbor lattice.",
+    "value": 31.27
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 11,
+    "title": "Customer Reviews 12: fjord vertex",
+    "body": "Meridian sable lattice lattice velvet quartz cedar velvet delta vertex juniper cedar amber amber juniper zephyr.",
+    "value": 89.23
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 12,
+    "title": "Customer Reviews 13: quartz delta",
+    "body": "Meridian amber tundra vertex onyx delta cedar juniper velvet fjord harbor sable.",
+    "value": 50.8
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 13,
+    "title": "Customer Reviews 14: velvet cedar",
+    "body": "Cedar vertex alpine amber birch fjord willow meridian juniper cedar harbor amber cobalt harbor sable vertex.",
+    "value": 6.19
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 14,
+    "title": "Customer Reviews 15: amber quartz",
+    "body": "Vertex zephyr harbor velvet vertex tundra juniper ember velvet cobalt amber onyx quartz cedar alpine.",
+    "value": 36.48
+  },
+  {
+    "blockId": "reviews-list",
+    "idx": 15,
+    "title": "Customer Reviews 16: willow vertex",
+    "body": "Amber harbor juniper fjord cobalt juniper onyx vertex zephyr juniper amber quartz tundra meridian cedar amber delta.",
+    "value": 99.71
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 0,
+    "title": "Recommended For You 1: delta cobalt",
+    "body": "Tundra tundra meridian vertex sable cedar velvet fjord cobalt cedar velvet meridian.",
+    "value": 38.99
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 1,
+    "title": "Recommended For You 2: onyx lattice",
+    "body": "Willow meridian fjord onyx lattice alpine zephyr delta onyx harbor amber vertex ember lattice.",
+    "value": 39.51
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 2,
+    "title": "Recommended For You 3: vertex velvet",
+    "body": "Harbor ember lattice velvet delta amber lattice birch velvet ember delta birch juniper juniper delta harbor.",
+    "value": 36.83
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 3,
+    "title": "Recommended For You 4: vertex fjord",
+    "body": "Quartz meridian harbor lattice zephyr zephyr onyx willow willow delta zephyr birch.",
+    "value": 2.07
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 4,
+    "title": "Recommended For You 5: cedar tundra",
+    "body": "Cedar birch velvet alpine juniper zephyr harbor velvet ember sable sable delta.",
+    "value": 41.8
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 5,
+    "title": "Recommended For You 6: harbor tundra",
+    "body": "Cedar vertex vertex tundra cedar juniper zephyr cedar vertex sable fjord vertex.",
+    "value": 28.25
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 6,
+    "title": "Recommended For You 7: meridian juniper",
+    "body": "Ember cedar tundra birch vertex cobalt harbor juniper delta amber alpine sable tundra juniper meridian.",
+    "value": 20.24
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 7,
+    "title": "Recommended For You 8: birch quartz",
+    "body": "Fjord alpine meridian zephyr meridian cedar delta cedar alpine vertex willow cedar ember.",
+    "value": 11.77
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 8,
+    "title": "Recommended For You 9: onyx birch",
+    "body": "Quartz vertex sable juniper zephyr meridian delta cobalt onyx fjord tundra.",
+    "value": 52.31
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 9,
+    "title": "Recommended For You 10: cobalt zephyr",
+    "body": "Cobalt meridian willow onyx birch cedar juniper onyx delta juniper fjord ember juniper fjord birch juniper.",
+    "value": 30.09
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 10,
+    "title": "Recommended For You 11: meridian vertex",
+    "body": "Vertex fjord cobalt onyx cedar birch ember tundra cobalt zephyr.",
+    "value": 64.83
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 11,
+    "title": "Recommended For You 12: delta velvet",
+    "body": "Willow vertex velvet cobalt onyx amber harbor meridian delta juniper fjord vertex.",
+    "value": 60.76
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 12,
+    "title": "Recommended For You 13: vertex alpine",
+    "body": "Cedar onyx alpine fjord amber willow zephyr birch meridian alpine.",
+    "value": 24.01
+  },
+  {
+    "blockId": "recommendations",
+    "idx": 13,
+    "title": "Recommended For You 14: willow cedar",
+    "body": "Fjord onyx juniper zephyr tundra amber tundra birch fjord cobalt meridian willow fjord harbor cobalt birch cobalt.",
+    "value": 4.03
+  },
+  {
+    "blockId": "recently-viewed",
+    "idx": 0,
+    "title": "Recently Viewed 1: juniper vertex",
+    "body": "Juniper onyx tundra amber tundra amber quartz zephyr fjord harbor birch velvet harbor amber willow.",
+    "value": 11.33
+  },
+  {
+    "blockId": "recently-viewed",
+    "idx": 1,
+    "title": "Recently Viewed 2: delta lattice",
+    "body": "Ember sable tundra birch fjord onyx onyx zephyr tundra harbor cedar amber lattice ember willow.",
+    "value": 74.44
+  },
+  {
+    "blockId": "recently-viewed",
+    "idx": 2,
+    "title": "Recently Viewed 3: willow tundra",
+    "body": "Harbor lattice alpine zephyr onyx ember quartz juniper birch delta.",
+    "value": 88.94
+  },
+  {
+    "blockId": "recently-viewed",
+    "idx": 3,
+    "title": "Recently Viewed 4: juniper juniper",
+    "body": "Harbor zephyr juniper fjord fjord quartz willow delta juniper sable velvet cedar alpine vertex willow quartz.",
+    "value": 60.75
+  },
+  {
+    "blockId": "recently-viewed",
+    "idx": 4,
+    "title": "Recently Viewed 5: onyx lattice",
+    "body": "Cobalt juniper onyx sable delta alpine amber onyx lattice quartz velvet velvet cedar alpine delta onyx.",
+    "value": 8.02
+  },
+  {
+    "blockId": "recently-viewed",
+    "idx": 5,
+    "title": "Recently Viewed 6: lattice birch",
+    "body": "Cedar juniper quartz delta willow ember sable sable cedar willow ember cobalt.",
+    "value": 14.05
+  },
+  {
+    "blockId": "recently-viewed",
+    "idx": 6,
+    "title": "Recently Viewed 7: vertex tundra",
+    "body": "Harbor fjord delta alpine willow vertex onyx harbor vertex tundra tundra cedar willow onyx onyx.",
+    "value": 94.06
+  },
+  {
+    "blockId": "recently-viewed",
+    "idx": 7,
+    "title": "Recently Viewed 8: cedar birch",
+    "body": "Amber zephyr tundra lattice cedar amber sable birch birch velvet birch willow sable harbor lattice cedar.",
+    "value": 60.13
+  },
+  {
+    "blockId": "recently-viewed",
+    "idx": 8,
+    "title": "Recently Viewed 9: willow quartz",
+    "body": "Onyx harbor harbor meridian quartz quartz cobalt cobalt fjord tundra sable zephyr alpine birch onyx.",
+    "value": 85.33
+  },
+  {
+    "blockId": "recently-viewed",
+    "idx": 9,
+    "title": "Recently Viewed 10: zephyr ember",
+    "body": "Delta zephyr lattice velvet onyx lattice sable sable delta fjord vertex onyx harbor cedar cedar.",
+    "value": 2.32
+  },
+  {
+    "blockId": "recently-viewed",
+    "idx": 10,
+    "title": "Recently Viewed 11: willow tundra",
+    "body": "Sable ember lattice fjord meridian zephyr sable sable quartz sable onyx birch meridian onyx birch.",
+    "value": 3.57
+  },
+  {
+    "blockId": "recently-viewed",
+    "idx": 11,
+    "title": "Recently Viewed 12: meridian willow",
+    "body": "Sable quartz meridian vertex alpine amber birch fjord cobalt velvet ember.",
+    "value": 95.35
+  },
+  {
+    "blockId": "faq",
+    "idx": 0,
+    "title": "Product FAQ 1: tundra ember",
+    "body": "Cedar sable delta juniper velvet fjord onyx fjord amber vertex lattice willow ember delta vertex sable.",
+    "value": 92.59
+  },
+  {
+    "blockId": "faq",
+    "idx": 1,
+    "title": "Product FAQ 2: cobalt amber",
+    "body": "Sable vertex birch lattice amber fjord zephyr harbor harbor harbor cobalt willow velvet velvet harbor juniper juniper.",
+    "value": 64.9
+  },
+  {
+    "blockId": "faq",
+    "idx": 2,
+    "title": "Product FAQ 3: tundra ember",
+    "body": "Lattice cedar ember cobalt juniper quartz birch sable tundra onyx quartz harbor onyx.",
+    "value": 80.08
+  },
+  {
+    "blockId": "faq",
+    "idx": 3,
+    "title": "Product FAQ 4: fjord cobalt",
+    "body": "Sable tundra willow willow meridian lattice cedar velvet ember cedar quartz sable birch fjord willow quartz.",
+    "value": 35.04
+  },
+  {
+    "blockId": "faq",
+    "idx": 4,
+    "title": "Product FAQ 5: quartz quartz",
+    "body": "Velvet harbor quartz lattice birch cobalt onyx meridian juniper vertex delta juniper fjord fjord.",
+    "value": 72.46
+  },
+  {
+    "blockId": "faq",
+    "idx": 5,
+    "title": "Product FAQ 6: ember onyx",
+    "body": "Quartz vertex birch quartz cedar alpine meridian sable onyx zephyr ember willow.",
+    "value": 50.18
+  },
+  {
+    "blockId": "faq",
+    "idx": 6,
+    "title": "Product FAQ 7: willow onyx",
+    "body": "Meridian sable vertex vertex ember delta quartz fjord juniper cedar delta vertex zephyr fjord vertex zephyr birch.",
+    "value": 54.49
+  },
+  {
+    "blockId": "faq",
+    "idx": 7,
+    "title": "Product FAQ 8: delta velvet",
+    "body": "Sable willow lattice birch alpine ember harbor harbor onyx birch onyx birch.",
+    "value": 25.6
+  },
+  {
+    "blockId": "faq",
+    "idx": 8,
+    "title": "Product FAQ 9: quartz sable",
+    "body": "Juniper onyx cobalt alpine cobalt cobalt cobalt amber cedar willow quartz cedar birch meridian.",
+    "value": 54.48
+  },
+  {
+    "blockId": "faq",
+    "idx": 9,
+    "title": "Product FAQ 10: lattice cobalt",
+    "body": "Willow quartz amber vertex velvet juniper vertex ember cedar juniper birch sable vertex.",
+    "value": 88.79
+  },
+  {
+    "blockId": "faq",
+    "idx": 10,
+    "title": "Product FAQ 11: juniper quartz",
+    "body": "Birch harbor tundra birch lattice lattice willow birch willow harbor willow willow onyx harbor quartz.",
+    "value": 94.91
+  },
+  {
+    "blockId": "faq",
+    "idx": 11,
+    "title": "Product FAQ 12: tundra sable",
+    "body": "Amber onyx alpine amber cedar juniper alpine amber vertex vertex.",
+    "value": 93.34
+  },
+  {
+    "blockId": "faq",
+    "idx": 12,
+    "title": "Product FAQ 13: ember quartz",
+    "body": "Lattice vertex meridian meridian harbor tundra delta amber onyx vertex ember quartz alpine fjord lattice alpine zephyr.",
+    "value": 84.79
+  },
+  {
+    "blockId": "faq",
+    "idx": 13,
+    "title": "Product FAQ 14: willow ember",
+    "body": "Willow willow harbor alpine cedar quartz amber vertex willow lattice meridian velvet juniper tundra birch harbor.",
+    "value": 14.21
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 0,
+    "title": "About The Brand 1: fjord amber",
+    "body": "Zephyr quartz cobalt tundra zephyr delta vertex sable cedar zephyr cedar amber ember birch vertex.",
+    "value": 46.14
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 1,
+    "title": "About The Brand 2: quartz juniper",
+    "body": "Meridian tundra ember onyx velvet zephyr zephyr vertex onyx fjord sable cobalt sable quartz vertex birch tundra.",
+    "value": 64.75
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 2,
+    "title": "About The Brand 3: zephyr lattice",
+    "body": "Delta meridian zephyr tundra quartz onyx lattice cobalt zephyr tundra velvet tundra.",
+    "value": 55.98
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 3,
+    "title": "About The Brand 4: meridian fjord",
+    "body": "Meridian onyx ember ember velvet sable lattice willow harbor sable birch.",
+    "value": 35.28
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 4,
+    "title": "About The Brand 5: juniper meridian",
+    "body": "Amber quartz tundra harbor tundra alpine tundra velvet alpine onyx onyx quartz vertex sable.",
+    "value": 68.12
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 5,
+    "title": "About The Brand 6: tundra amber",
+    "body": "Harbor alpine ember sable ember ember harbor birch delta willow.",
+    "value": 23.11
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 6,
+    "title": "About The Brand 7: ember velvet",
+    "body": "Birch quartz amber vertex onyx amber alpine quartz lattice cedar meridian.",
+    "value": 45.67
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 7,
+    "title": "About The Brand 8: alpine birch",
+    "body": "Delta juniper cedar velvet fjord delta lattice onyx velvet lattice alpine birch onyx tundra cedar fjord onyx.",
+    "value": 79.86
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 8,
+    "title": "About The Brand 9: onyx onyx",
+    "body": "Tundra alpine willow harbor ember zephyr vertex velvet delta harbor fjord sable juniper meridian.",
+    "value": 68.76
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 9,
+    "title": "About The Brand 10: zephyr vertex",
+    "body": "Juniper ember onyx cedar zephyr onyx harbor meridian onyx willow lattice.",
+    "value": 25.06
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 10,
+    "title": "About The Brand 11: tundra delta",
+    "body": "Juniper alpine birch sable velvet tundra zephyr ember willow cedar willow velvet birch alpine velvet delta.",
+    "value": 24.86
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 11,
+    "title": "About The Brand 12: sable meridian",
+    "body": "Sable meridian tundra lattice juniper ember zephyr cobalt ember harbor birch amber tundra ember fjord.",
+    "value": 56.98
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 12,
+    "title": "About The Brand 13: cobalt harbor",
+    "body": "Zephyr sable vertex cedar onyx vertex cobalt onyx zephyr juniper ember fjord willow cedar juniper.",
+    "value": 14.98
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 13,
+    "title": "About The Brand 14: alpine willow",
+    "body": "Birch cobalt birch ember alpine onyx quartz tundra harbor quartz ember sable birch cobalt onyx lattice alpine.",
+    "value": 9.9
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 14,
+    "title": "About The Brand 15: velvet alpine",
+    "body": "Meridian zephyr ember delta delta sable amber onyx fjord willow velvet.",
+    "value": 49.07
+  },
+  {
+    "blockId": "brand-story",
+    "idx": 15,
+    "title": "About The Brand 16: velvet delta",
+    "body": "Delta velvet birch ember alpine vertex delta amber willow velvet delta alpine.",
+    "value": 15.33
+  },
+  {
+    "blockId": "footer",
+    "idx": 0,
+    "title": "Store Footer 1: willow willow",
+    "body": "Juniper juniper onyx zephyr zephyr cobalt tundra amber delta amber onyx meridian vertex.",
+    "value": 19.94
+  },
+  {
+    "blockId": "footer",
+    "idx": 1,
+    "title": "Store Footer 2: cobalt lattice",
+    "body": "Tundra harbor fjord zephyr delta zephyr sable tundra ember cobalt sable tundra.",
+    "value": 91.6
+  },
+  {
+    "blockId": "footer",
+    "idx": 2,
+    "title": "Store Footer 3: amber harbor",
+    "body": "Tundra cobalt birch harbor cobalt juniper harbor ember vertex quartz willow sable willow.",
+    "value": 71.05
+  },
+  {
+    "blockId": "footer",
+    "idx": 3,
+    "title": "Store Footer 4: sable ember",
+    "body": "Harbor ember fjord cobalt onyx meridian velvet lattice cedar onyx juniper onyx ember lattice sable.",
+    "value": 17.17
+  },
+  {
+    "blockId": "footer",
+    "idx": 4,
+    "title": "Store Footer 5: tundra birch",
+    "body": "Lattice alpine cobalt cedar juniper amber alpine willow sable harbor.",
+    "value": 33.42
+  },
+  {
+    "blockId": "footer",
+    "idx": 5,
+    "title": "Store Footer 6: cedar lattice",
+    "body": "Zephyr willow cedar delta alpine lattice vertex amber delta cedar juniper velvet.",
+    "value": 86.98
+  },
+  {
+    "blockId": "footer",
+    "idx": 6,
+    "title": "Store Footer 7: zephyr fjord",
+    "body": "Harbor harbor alpine velvet zephyr lattice alpine cobalt birch harbor velvet.",
+    "value": 31.95
+  },
+  {
+    "blockId": "footer",
+    "idx": 7,
+    "title": "Store Footer 8: cobalt cobalt",
+    "body": "Onyx amber ember ember birch meridian lattice sable meridian cedar velvet zephyr onyx birch.",
+    "value": 70.08
+  }
+]

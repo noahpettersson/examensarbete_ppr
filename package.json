@@ -1,0 +1,28 @@
+{
+  "name": "ppr-thesis",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Master's thesis benchmark instrument: SSG+CSF vs SSR vs PPR under varying dynamic-content proportion and placement (Next.js 16).",
+  "workspaces": [
+    "apps/benchmark-web",
+    "benchmark"
+  ],
+  "scripts": {
+    "setup": "npm ci && npm run seed:db && npx playwright install chromium",
+    "generate:scenarios": "npm run generate:scenarios --workspace apps/benchmark-web",
+    "seed:db": "npm run seed:db --workspace apps/benchmark-web",
+    "build:modern": "npm run build:modern --workspace apps/benchmark-web",
+    "build:classic": "npm run build:classic --workspace apps/benchmark-web",
+    "build:both": "npm run build:modern && npm run build:classic",
+    "dev:modern": "npm run dev:modern --workspace apps/benchmark-web",
+    "dev:classic": "npm run dev:classic --workspace apps/benchmark-web",
+    "start:modern": "npm run start:modern --workspace apps/benchmark-web",
+    "start:classic": "npm run start:classic --workspace apps/benchmark-web",
+    "bench:smoke": "npm run smoke --workspace benchmark",
+    "bench:pilot": "npm run pilot --workspace benchmark",
+    "bench:primary": "npm run primary --workspace benchmark"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

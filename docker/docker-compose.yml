@@ -1,0 +1,52 @@
+# Docker-isolated experiment stack.
+#   docker compose -f docker/docker-compose.yml build
+#   docker compose -f docker/docker-compose.yml run --rm bench            # primary matrix
+#   docker compose -f docker/docker-compose.yml run --rm bench npx tsx benchmark/runner/run-matrix.ts --matrix pilot
+#
+# Resource limits pin CPU/memory to reduce hardware noise between sessions.
+services:
+  app-modern:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.app
+      args:
+        RENDER_CONFIG: modern
+    cpus: "4"
+    mem_limit: 4g
+    ports:
+      - "3001:3000"
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://localhost:3000/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  app-classic:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.app
+      args:
+        RENDER_CONFIG: classic
+    cpus: "4"
+    mem_limit: 4g
+    ports:
+      - "3002:3000"
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://localhost:3000/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  bench:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.bench
+    cpus: "4"
+    mem_limit: 4g
+    depends_on:
+      app-modern:
+        condition: service_healthy
+      app-classic:
+        condition: service_healthy
+    volumes:
+      - ../data/results:/repo/data/results

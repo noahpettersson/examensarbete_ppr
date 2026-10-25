@@ -1,0 +1,11 @@
+{
+  "name": "smoke",
+  "conditions": [
+    { "strategy": "ssg", "scenarioId": "p50_atf" },
+    { "strategy": "ppr", "scenarioId": "p50_atf" },
+    { "strategy": "ssr", "scenarioId": "p50_atf" },
+    { "strategy": "ssg", "scenarioId": "p50_btf" },
+    { "strategy": "ppr", "scenarioId": "p50_btf" },
+    { "strategy": "ssr", "scenarioId": "p50_btf" }
+  ]
+}

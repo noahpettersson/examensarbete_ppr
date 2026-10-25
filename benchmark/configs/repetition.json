@@ -1,0 +1,7 @@
+{
+  "primary": { "reps": 30, "warmupReps": 3 },
+  "pilot": { "reps": 10, "warmupReps": 3 },
+  "extended": { "reps": 30, "warmupReps": 3 },
+  "smoke": { "reps": 2, "warmupReps": 1 },
+  "serverPrewarmRequests": 10
+}

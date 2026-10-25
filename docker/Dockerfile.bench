@@ -1,0 +1,19 @@
+# Benchmark harness image: Playwright + CDP matrix runner.
+# Image tag MUST match the playwright version in package-lock.json so the
+# bundled browsers are compatible with the npm package.
+FROM mcr.microsoft.com/playwright:v1.62.0-noble
+WORKDIR /repo
+
+COPY package.json package-lock.json ./
+COPY apps/benchmark-web/package.json apps/benchmark-web/
+COPY benchmark/package.json benchmark/
+RUN npm ci --workspace benchmark --include-workspace-root
+
+COPY benchmark benchmark
+COPY apps/benchmark-web/src/scenarios apps/benchmark-web/src/scenarios
+COPY data data
+
+ENV MODERN_BASE_URL=http://app-modern:3000
+ENV CLASSIC_BASE_URL=http://app-classic:3000
+
+CMD ["npx", "tsx", "benchmark/runner/run-matrix.ts", "--matrix", "primary"]

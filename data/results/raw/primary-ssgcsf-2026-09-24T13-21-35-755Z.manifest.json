@@ -1,0 +1,26 @@
+{
+  "runId": "primary-ssgcsf-2026-09-24T13-21-35-755Z",
+  "matrix": "primary",
+  "networkProfile": "cable",
+  "nextVersion": "16.2.12",
+  "node": "v24.18.0",
+  "playwright": "1.62.0",
+  "chromium": "151.0.7922.34",
+  "commit": "14f7317",
+  "os": "win32 10.0.19045",
+  "cpu": "Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz",
+  "cpuCount": 4,
+  "memGb": 16,
+  "dbPoolSize": 4,
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  },
+  "postLoadIdleMs": 2000,
+  "reps": 30,
+  "warmupReps": 3,
+  "conditionCount": 30,
+  "totalScheduledLoads": 990,
+  "startedAt": "2026-09-24T13:21:35.755Z",
+  "finishedAt": "2026-09-24T14:06:21.877Z"
+}
